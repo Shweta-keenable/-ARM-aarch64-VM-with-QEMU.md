@@ -1,6 +1,6 @@
 ## How to launch ARM aarch64 VM with QEMU from scratch. 
 
-To launch a To launch an arch64 VM we first need to install a few dependencies, including QEMU and the qemu-efi-aarch64 package, 
+To launch an arch64 VM we first need to install a few dependencies, including QEMU and the qemu-efi-aarch64 package, 
 which includes the efi firmware.
 
 apt-get install qemu-system-arm
