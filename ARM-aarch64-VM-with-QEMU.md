@@ -1,4 +1,17 @@
+
+## Created VM of linux/ARM64 using qemu on below environment
+
+Host OS version:Name="Ubuntu linux"
+
+Version="20.4"
+
+Architecture:x86_64
+
+Ram:4gb
+
+
 <h1 align=center> How do we install QEMU and install an OS on QEMU?</h1>
+
 
 
 <h5> Step - 1 ==> To launch an aarch64 VM we first need to install a few dependencies, including QEMU and the qemu-efi-aarch64 package, which includes the efi firmware.</h5>
